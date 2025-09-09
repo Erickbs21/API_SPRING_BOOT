@@ -1,5 +1,5 @@
 # API_SPRING_BOOT
-# 📌 API Sistema de Venta con Control de Inventario
+#  API Sistema de Venta con Control de Inventario
 
 Este sistema permite gestionar ventas, productos, proveedores, categorías, órdenes de compra y ajustes de inventario.
 

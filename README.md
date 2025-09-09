@@ -7,12 +7,12 @@ Base URL:
 
 ---
 
-## 🔑 Autenticación
+## Autenticación
 Todas las peticiones requieren un `api_key`.
 
 | Parámetro | Tipo     | Descripción                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Tu API key   |
+| `api_key` | `string` | **Required**. API key   |
 
 ---
 
